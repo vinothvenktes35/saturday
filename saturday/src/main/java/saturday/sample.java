@@ -13,8 +13,5 @@ public class sample {
 	public void C() {
 		System.out.println("kdsfjlk");
 	}
-	public void dC() {
-		System.out.println("kdsfjlk");
-	}
 	
 }
