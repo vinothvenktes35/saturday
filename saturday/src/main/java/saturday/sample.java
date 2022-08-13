@@ -11,7 +11,7 @@ public class sample {
 	}
 	
 	public void C() {
-		System.out.println("kdsfjlk");
+		System.out.println("vinoth");
 	}
 	
 }
