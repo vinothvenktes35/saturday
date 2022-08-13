@@ -14,4 +14,8 @@ public class sample {
 		System.out.println("vinoth");
 	}
 	
+	public void dev() {
+		System.out.println();
+	}
+	
 }
